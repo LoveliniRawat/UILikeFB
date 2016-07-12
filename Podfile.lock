@@ -1,0 +1,19 @@
+PODS:
+  - DOFavoriteButton (0.0.4)
+  - FontAwesome (4.5.0)
+  - KeychainSwift (3.0.16)
+  - Player (0.1.1)
+
+DEPENDENCIES:
+  - DOFavoriteButton
+  - FontAwesome
+  - KeychainSwift (~> 3.0)
+  - Player
+
+SPEC CHECKSUMS:
+  DOFavoriteButton: 866e15af173d2dd5233971a1f657a5f31d2491d5
+  FontAwesome: dd8c48bf965e771309d8af17c4d8579217b3e756
+  KeychainSwift: a5bb85cd498ce2217b55e055ec59e9268d83384c
+  Player: 575e1e8cde1e6b7cd62d6d6bc06e492d02e62b9e
+
+COCOAPODS: 0.39.0

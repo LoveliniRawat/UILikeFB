@@ -1,0 +1,6 @@
+framework module Pods_FBCardView {
+  umbrella header "Pods-FBCardView-umbrella.h"
+
+  export *
+  module * { export * }
+}
